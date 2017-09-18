@@ -1,15 +1,15 @@
 # Log-Notes-App-Node
 Log your notes
 
-Add Notes
+Add Notes ->
 node app.js add --title=YourTitleName --body="your description"
 
-List Notes
+List Notes ->
 node app.js list
 
-Read Notes
+Read Notes ->
 node app.js read --title=YourTitleName
 
-Remove Notes
+Remove Notes ->
 node app.js remove --title=YourTitleName
 
